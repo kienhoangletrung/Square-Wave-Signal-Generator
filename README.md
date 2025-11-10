@@ -51,4 +51,5 @@ A simple 555 timer circuit configured as an adjustable frequency oscillator with
 3. Select output channel based on filtering needs
 4. LED blinks at output frequency
 
+**Designer: HOÀNG LÊ TRUNG KIÊN
 **Version:** 1.0
